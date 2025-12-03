@@ -23,3 +23,7 @@ Este es un ejemplo con los argumentos: n=5 y m=5
 
 <img width="100" height="250" alt="image" src="https://github.com/user-attachments/assets/3596f403-f9a3-4a21-be3d-5d97b5df7e11" /> 
 
+# ---RECOMENDACIONES---
+Si eres alguien que va empezando a programar, te recomendaria que uses el software [**Spyder**](https://www.spyder-ide.org/download). 
+Este hace uso del lenguaje de programacion Python,  y como dato curioso es el mismo software que se uso en la creacion de este 
+codigo.
